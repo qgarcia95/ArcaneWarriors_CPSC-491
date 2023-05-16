@@ -9,7 +9,8 @@ I plan to continue to develop my game as I learn more about Unreal Engine 5 and 
 
 <br> NOTE: To install Unreal Engine 5, you must have a computer with the proper hardware requirements. (Requires a lot of storage(SSID), RAM, VRAM, a high-performance CPU, and a high-performance GPU).<br>
 NOTE: Unreal Engine 5 takes about 120 GB to install (Game Engine Alone).<br>
-NOTE: Currently, my project is around 90 G.B., and it is too large to upload directly to Github.<br> 
+NOTE: Currently, my project is around 90 G.B., and it is too large to upload directly to Github.<br>
+NOTE: All assets have been found for free online from Mixamo, QuixelBridge, and the Unreal MarketPlace. I am not taking credit for the design of any assets. <br>
 
 --------------------------------------------------------------------------------------------------
 # Installing the Game – Creating .exe of game for Desktop to Play
