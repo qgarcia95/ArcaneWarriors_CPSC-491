@@ -1,5 +1,5 @@
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-# ArcaneWarriors_CPSC-491
+# ArcaneWarriors_CPSC-491 - CSUF - Computer Science
 Unreal Engine 5 -- Arcane Warriors --  3D Fantasy/Action RPG
 
 I plan to continue to develop my game as I learn more about Unreal Engine 5 and its many capabilities. From this point, Arcane Warriors has the base functionality implemented for a Fantasy/Action RPG prototype but can easily be expanded to implement more features and variety to the game.
@@ -14,7 +14,7 @@ NOTE: Currently, my project is around 90 G.B., and it is too large to upload dir
 --------------------------------------------------------------------------------------------------
 # Installing the Game – Creating .exe of game for Desktop to Play
 --------------------------------------------------------------------------------------------------
-Note: Arcane Warriors is finished in terms of a prototype (proof of concept of game) but is still going to be going under active development as a personal project of mine.<br>
+Note: Arcane Warriors is finished in terms of a prototype (proof of concept of game) but is still going to be going under active development as a personal project of mine. Thus, the need to create an .exe is not needed as I will still be developing after graduating. This is just for future knowledge and references.<br>
 ---------------------------------------------------------
 <br>To create an executable desktop application from an Unreal Engine 5 game, you can follow these general steps: 
   1. Build your game for the desired platform: In Unreal Engine 5, you can build your game for multiple platforms, such as Windows, Mac, Linux, and Android. To develop your game, go to the "File" menu in the editor and select "Package Project." Then, choose the desired platform and packaging settings.<br>
