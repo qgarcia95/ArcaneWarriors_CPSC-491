@@ -12,7 +12,7 @@ NOTE: Currently my project is around 90 GB, it is to large to upload directly to
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-#Intructions for Playing Game from Engine Through .uproject file w/o Creating .exe File for Desktop
+# Intructions for Playing Game from Engine Through .uproject file w/o Creating .exe File for Desktop
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 To play the game directly from the Unreal Engine, you can follow these general steps:
   1. Ensure that you have a copy of all necessary files, specially the .uproject file.
@@ -23,7 +23,7 @@ To play the game directly from the Unreal Engine, you can follow these general s
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 -------------------------------------------
-#GAME CONTROLS (Requires Keyboard and Mouse)
+# GAME CONTROLS (Requires Keyboard and Mouse)
 -------------------------------------------
   Move Forward: 'W Key'
   Move Backward: 'S Key'
@@ -36,11 +36,11 @@ To play the game directly from the Unreal Engine, you can follow these general s
 
 
 ------------------------------
-#CURRENT GAME FEATURES (Below)
+# CURRENT GAME FEATURES (Below)
 ------------------------------
 
 ---------------------------------------
-#ENEMY TYPES
+# ENEMY TYPES
 ---------------------------------------
   Flying Insect - (Weakest Tier Enemy)
     - 75 HP
@@ -58,14 +58,14 @@ To play the game directly from the Unreal Engine, you can follow these general s
 
 
 ---------------
-#WEAPON TYPES
+# WEAPON TYPES
 ---------------
   LongSwords
 ---------------
 
 
 -------------------------
-#TREASURES (Gold system)
+# TREASURES (Gold system)
 -------------------------
   Gold Bars = 5 gold
   Sapphires = 15 gold
@@ -76,7 +76,7 @@ To play the game directly from the Unreal Engine, you can follow these general s
 
 
 ---------------------
-#BREAKABLE ITEMS
+# BREAKABLE ITEMS
 ---------------------
   Spawn Treasures
   Spawn NoTreasures
