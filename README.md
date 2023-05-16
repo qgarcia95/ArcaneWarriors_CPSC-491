@@ -14,6 +14,8 @@ NOTE: Currently, my project is around 90 G.B., and it is too large to upload dir
 --------------------------------------------------------------------------------------------------
 # Installing the Game – Creating .exe of game for Desktop to Play
 --------------------------------------------------------------------------------------------------
+Note: Arcane Warriors is finished in terms of a prototype (proof of concept of game) but is still going to be going under active development as a personal project of mine.<br>
+---------------------------------------------------------
 <br>To create an executable desktop application from an Unreal Engine 5 game, you can follow these general steps: 
   1. Build your game for the desired platform: In Unreal Engine 5, you can build your game for multiple platforms, such as Windows, Mac, Linux, and Android. To develop your game, go to the "File" menu in the editor and select "Package Project." Then, choose the desired platform and packaging settings.<br>
   2. Generate an installer: Once you have built your game, you can use a third-party tool to generate an installer. Many installer creation tools are available, such as InstallShield, Inno Setup, WiX, and many more. These tools allow you to create an installer package for your users.<br>
