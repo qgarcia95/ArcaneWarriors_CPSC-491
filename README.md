@@ -3,7 +3,7 @@
 Unreal Engine 5 -- Arcane Warriors --  3D Fantasy/Action RPG
 
 I plan to continue to develop my game as I learn more about Unreal Engine 5 and its many capabilities. From this point, Arcane Warriors has the base functionality implemented for a Fantasy/Action RPG prototype but can easily be expanded on to implement more features and variety to the game.
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------<br>
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------NOTE: In order to install Unreal Engine 5 you must have a computer with the proper hardware requirements. (Requires alot of storage(SSID), RAM, VRAM, a high performace CPU, and high performance GPU).
