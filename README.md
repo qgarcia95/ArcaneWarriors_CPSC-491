@@ -11,6 +11,18 @@ I plan to continue to develop my game as I learn more about Unreal Engine 5 and 
 NOTE: Unreal Engine 5 takes about 120 GB to install (Game Engine Alone).<br>
 NOTE: Currently, my project is around 90 G.B., and it is too large to upload directly to Github.<br> 
 
+--------------------------------------------------------------------------------------------------
+# Installing the Game – Creating .exe of game for Desktop to Play
+--------------------------------------------------------------------------------------------------
+<br>To create an executable desktop application from an Unreal Engine 5 game, you can follow these general steps: 
+  1. Build your game for the desired platform: In Unreal Engine 5, you can build your game for multiple platforms, such as Windows, Mac, Linux, and Android. To develop your game, go to the "File" menu in the editor and select "Package Project." Then, choose the desired platform and packaging settings.<br>
+  2. Generate an installer: Once you have built your game, you can use a third-party tool to generate an installer. Many installer creation tools are available, such as InstallShield, Inno Setup, WiX, and many more. These tools allow you to create an installer package for your users.<br>
+  3. Test the installer: After generating the installer package, you should test it to ensure it installs the game correctly and runs without issues. Install the package on a test machine and verify that the game works as expected.<br>
+  4. Distribute the installer: Once the installer has been tested, you can distribute it to your users. You can upload the installer to a website or a file-sharing service or spread it on physical media such as a DVD.<br>
+  
+Note: Remember that the exact steps for creating an installer may vary depending on your chosen installer creation tool. Also, note that certain platforms like Mac have specific requirements for creating installer packages. Researching the particular requirements for your target platform before proceeding is vital.<br>
+
+---------------------------------------------------------------------------------------------------
 
 # Intructions for Playing Game from Engine Through .uproject file w/o Creating .exe File for Desktop<br>
 ------------------------------------------------------------------------------------------------------------------------------------------
