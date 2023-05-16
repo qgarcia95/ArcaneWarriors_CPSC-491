@@ -6,86 +6,87 @@ I plan to continue to develop my game as I learn more about Unreal Engine 5 and 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------<br>
 
 
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------NOTE: In order to install Unreal Engine 5 you must have a computer with the proper hardware requirements. (Requires alot of storage(SSID), RAM, VRAM, a high performace CPU, and high performance GPU).
-NOTE: Unreal Engine 5 takes about 120 GB to install (Game Engine Alone).
-NOTE: Currently my project is around 90 GB, it is to large to upload directly to Github. ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------NOTE: In order to install Unreal Engine 5 you must have a computer with the proper hardware requirements. (Requires alot of storage(SSID), RAM, VRAM, a high performace CPU, and high performance GPU).<br>
+NOTE: Unreal Engine 5 takes about 120 GB to install (Game Engine Alone).<br>
+NOTE: Currently my project is around 90 GB, it is to large to upload directly to Github.<br> ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-# Intructions for Playing Game from Engine Through .uproject file w/o Creating .exe File for Desktop
+# Intructions for Playing Game from Engine Through .uproject file w/o Creating .exe File for Desktop<br>
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-To play the game directly from the Unreal Engine, you can follow these general steps:
-  1. Ensure that you have a copy of all necessary files, specially the .uproject file.
-  2. Install Unreal Engine onto your machine.
-  3. Locate the .uproject file
-  4. Navigate to top left of engine, select open level option, open whichever level you are going to play. Hit green play button to test the game in the engines play in editor (P.I.E.) mode.
-  5. Press the red stop button to game P.I.E. session. 
+To play the game directly from the Unreal Engine, you can follow these general steps:<br>
+  1. Ensure that you have a copy of all necessary files, specially the .uproject file.<br>
+  2. Install Unreal Engine onto your machine.<br>
+  3. Locate the .uproject file<br>
+  4. Navigate to top left of engine, select open level option, open whichever level you are going to play. Hit green play button to test the game in the engines play in editor (P.I.E.) mode.<br>
+  5. Press the red stop button to game P.I.E. session. <br>
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 -------------------------------------------
-# GAME CONTROLS (Requires Keyboard and Mouse)
+# GAME CONTROLS (Requires Keyboard and Mouse)<br>
 -------------------------------------------
-  Move Forward: 'W Key'
-  Move Backward: 'S Key'
-  Move Left: 'A Key'
-  Move Right: 'D Key'
-  Dodge: 'Right-Click'
-  Jump: 'Spacebar Key'
-  Attack: 'Left-Click'
+  Move Forward: 'W Key'<br>
+  Move Backward: 'S Key'<br>
+  Move Left: 'A Key'<br>
+  Move Right: 'D Key'<br>
+  Dodge: 'Right-Click'<br>
+  Jump: 'Spacebar Key'<br>
+  Attack: 'Left-Click'<br>
 -------------------------------------------
 
 
 ------------------------------
-# CURRENT GAME FEATURES (Below)
+# CURRENT GAME FEATURES (Below)<br>
 ------------------------------
 
 ---------------------------------------
-# ENEMY TYPES
+# ENEMY TYPES<br>
 ---------------------------------------
-  Flying Insect - (Weakest Tier Enemy)
-    - 75 HP
-    - Deals 10 Damage
-    - Drops 3 souls (xp points)
-  Paladin Knight - (Middle Tier Enemy)
-    - 125 HP
-    - Deals 15 Damage
-    - Drops 5 souls (xp points)
-  Raptor - (Strongest Tier Enemy)
-    - 300 HP
-    - Deals 25 Damage
-    - Drops 25 Souls (xp points)
+  Flying Insect - (Weakest Tier Enemy)<br>
+    - 75 HP<br>
+    - Deals 10 Damage<br>
+    - Drops 3 souls (xp points)<br>
+  Paladin Knight - (Middle Tier Enemy)<br>
+    - 125 HP<br>
+    - Deals 15 Damage<br>
+    - Drops 5 souls (xp points)<br>
+  Raptor - (Strongest Tier Enemy)<br>
+    - 300 HP<br>
+    - Deals 25 Damage<br>
+    - Drops 25 Souls (xp points)<br>
 ----------------------------------------
 
 
 ---------------
-# WEAPON TYPES
+# WEAPON TYPES<br>
 ---------------
-  LongSwords
+  LongSwords<br>
 ---------------
 
 
 -------------------------
-# TREASURES (Gold system)
+# TREASURES (Gold system)<br>
 -------------------------
-  Gold Bars = 5 gold
-  Sapphires = 15 gold
-  Emeralds = 25 gold
-  Rubies = 50 gold
-  Diamonds = 100 gold
+  Gold Bars = 5 gold<br>
+  Sapphires = 15 gold<br>
+  Emeralds = 25 gold<br>
+  Rubies = 50 gold<br>
+  Diamonds = 100 gold<br>
 -------------------------
 
 
 ---------------------
-# BREAKABLE ITEMS
+# BREAKABLE ITEMS<br>
 ---------------------
-  Spawn Treasures
-  Spawn NoTreasures
+  Spawn Treasures<br>
+  Spawn NoTreasures<br>
 ---------------------
 
 
-LANDSCAPE
 --------------------------------------------------
-  4 Different Environments with different audio
+LANDSCAPE<br>
+--------------------------------------------------
+  4 Different Environments with different audio<br>
     -Forest
     -Village
     -Castle
